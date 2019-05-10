@@ -19,7 +19,7 @@ end
 
 def while_iterator(number_of_times)
  number_of_times = 0 
- while num
+ while number_of_times < 
   phrase = "Welcome to Flatiron School's Web Development Course!"
   
 end
